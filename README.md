@@ -11,7 +11,7 @@ Mint NFT at the Magic Eden
 
 # ⚙️ Установка
 ##### Клонируем репозиторий
->git clone https://github.com/Nofomoplzzz/Monad_faucet
+>git clone https://github.com/Nofomoplzzz/Monad_mint_NFT
 
 >cd Monad_faucet
 
